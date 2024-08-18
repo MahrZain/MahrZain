@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
 <h3 align="center">Full Stack Web Application Developer with expertise in Python Django, CI/CD Automation, and WordPress. Skilled in building robust web applications and implementing efficient development pipelines. Passionate about SEO and content creation as a Blogger. Continuously learning and exploring new technologies to stay current in the ever-evolving tech landscape.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahrzain" alt="mahrzain" /></a> </p>
-
 - 🔭 I’m currently working on [e-commerce Website](https://nullxcoder.xyz/)
 
 - 🌱 I’m currently learning **Python, Js and more**
