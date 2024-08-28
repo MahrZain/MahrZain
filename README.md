@@ -24,7 +24,7 @@
   <a href="mailto:mehar00zain@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/nullxcoder0" target="_blank">
+  <a href="https://www.linkedin.com/in/nullxcoder0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://nullxcoder.my.canva.site/" target="_blank">
@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MahrZain/MahrZain/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
