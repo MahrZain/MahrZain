@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,js(level up)**
 
-- 👨‍💻 All of my projects are available at [https://nullxcoder.my.canva.site/](https://nullxcoder.news/index.html)
+- 👨‍💻 All of my projects are available at [ZAIN Portfolio](https://nullxcoder.news/index.html)
 
 - 📫 How to reach me **mehar00zain@gmail.com**
 
