@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,js(level up)**
 
-- 👨‍💻 All of my projects are available at [ZAIN Portfolio](https://nullxcoder.news/index.html)
+- 👨‍💻 All of my projects are available at [ZAIN Portfolio](https://port-woad-nine.vercel.app/)
 
 - 📫 How to reach me **mehar00zain@gmail.com**
 
