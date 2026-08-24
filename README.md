@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain Ul Abideen</h1>
 
-<h3 align="center">AI Engineer Intern @ Selfic AI | Full Stack Developer | AWS Certified Solutions Architect</h3>
+<h3 align="center">Full Stack Developer | AWS Certified Solutions Architect</h3>
 
 <p align="center">
   <em>Building scalable web applications & intelligent AI systems — from Django backends to LLM-powered pipelines.</em>
@@ -14,7 +14,6 @@
 
 ### 🧑‍💻 About Me
 
-- 🤖 AI Engineer Intern at **[Selfic AI](https://selfic.ai)** — building AI-powered HR systems, MCP integrations & high-performance backend services
 - 🏆 **AWS Certified Solutions Architect – Associate** (2025)
 - 🥇 **1st Place Winner** at Webathon — AirNexus, Air University (2024)
 - 🌱 Currently leveling up in **TypeScript, FastAPI & LLM Integration**
